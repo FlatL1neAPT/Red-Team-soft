@@ -1,0 +1,18 @@
+[submodule "Invoke-SocksProxy"]
+	path = Invoke-SocksProxy
+	url = https://github.com/p3nt4/Invoke-SocksProxy
+[submodule "flatpipes"]
+	path = flatpipes
+	url = https://github.com/dxflatline/flatpipes
+[submodule "SMB-reverse-brute"]
+	path = SMB-reverse-brute
+	url = https://github.com/DanMcInerney/SMB-reverse-brute
+[submodule "ACLight"]
+	path = ACLight
+	url = https://github.com/cyberark/ACLight
+[submodule "PowerShellScripts"]
+	path = PowerShellScripts
+	url = https://github.com/Arno0x/PowerShellScripts
+[submodule "PowerShdll"]
+	path = PowerShdll
+	url = https://github.com/p3nt4/PowerShdll
