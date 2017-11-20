@@ -16,3 +16,6 @@
 [submodule "PowerShdll"]
 	path = PowerShdll
 	url = https://github.com/p3nt4/PowerShdll
+[submodule "GreatSCT"]
+	path = GreatSCT
+	url = https://github.com/GreatSCT/GreatSCT
