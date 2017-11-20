@@ -28,3 +28,7 @@ https://github.com/DanMcInerney/SMB-reverse-brute<br>
 https://github.com/dxflatline/flatpipes<br>
 Proxy использующий именованные каналы pipe.<br>
 <br>
+<b>RDPY</b><br>
+https://github.com/citronneur/rdpy<br>
+Набор скриптов для работы с RDP и VNC.<br>
+<br>
