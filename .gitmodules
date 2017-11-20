@@ -19,3 +19,6 @@
 [submodule "GreatSCT"]
 	path = GreatSCT
 	url = https://github.com/GreatSCT/GreatSCT
+[submodule "rdpy"]
+	path = rdpy
+	url = https://github.com/citronneur/rdpy
