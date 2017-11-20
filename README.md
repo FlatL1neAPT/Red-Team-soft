@@ -26,5 +26,5 @@ https://github.com/DanMcInerney/SMB-reverse-brute<br>
 <br>
 <b>flatpipes</b><br>
 https://github.com/dxflatline/flatpipes<br>
-Proxy использующий именованые каналы pipe.<br>
+Proxy использующий именованные каналы pipe.<br>
 <br>
