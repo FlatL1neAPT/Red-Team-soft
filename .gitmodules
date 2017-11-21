@@ -22,3 +22,6 @@
 [submodule "rdpy"]
 	path = rdpy
 	url = https://github.com/citronneur/rdpy
+[submodule "sg1"]
+	path = sg1
+	url = https://github.com/evilsocket/sg1
