@@ -32,3 +32,7 @@ Proxy использующий именованные каналы pipe.<br>
 https://github.com/citronneur/rdpy<br>
 Набор скриптов для работы с RDP и VNC.<br>
 <br>
+<b>sg1</b><br>
+https://github.com/evilsocket/sg1<br>
+Утилита для шифрации и скрытой передачи данных.<br>
+<br>
