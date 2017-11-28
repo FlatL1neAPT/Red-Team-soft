@@ -36,3 +36,8 @@ https://github.com/citronneur/rdpy<br>
 https://github.com/evilsocket/sg1<br>
 Утилита для шифрации и скрытой передачи данных.<br>
 <br>
+<b>J.A.W.S.</b><br>
+https://github.com/411Hall/JAWS<br>
+https://411hall.github.io/JAWS-Enumeration/<br>
+JAWS - это сценарий PowerShell, разработанный для того, чтобы помочь быстро идентифицировать потенциальные векторы эскалации привилегий в системах Windows.<br>
+<br>
