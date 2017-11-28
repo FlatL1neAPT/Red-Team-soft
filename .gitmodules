@@ -25,3 +25,6 @@
 [submodule "sg1"]
 	path = sg1
 	url = https://github.com/evilsocket/sg1
+[submodule "JAWS"]
+	path = JAWS
+	url = https://github.com/411Hall/JAWS
