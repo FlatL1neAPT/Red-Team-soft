@@ -1,5 +1,9 @@
 # Red-Team-soft
 
+<b>Invoke-Obfuscation</b><br>
+https://github.com/danielbohannon/Invoke-Obfuscation<br>
+Набор скриптов для обфускакции кода<br>
+<br>
 <b>ACLight</b><br>
 https://github.com/cyberark/ACLight<br>
 Скрипт для обнаружения привелигированых учетных записей, включая Shadow Admins. Использует расширеный анализ списков ACL (Access Lists)<br>
