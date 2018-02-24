@@ -28,3 +28,6 @@
 [submodule "JAWS"]
 	path = JAWS
 	url = https://github.com/411Hall/JAWS
+[submodule "Invoke-Obfuscation"]
+	path = Invoke-Obfuscation
+	url = https://github.com/danielbohannon/Invoke-Obfuscation
