@@ -31,3 +31,6 @@
 [submodule "Invoke-Obfuscation"]
 	path = Invoke-Obfuscation
 	url = https://github.com/danielbohannon/Invoke-Obfuscation
+[submodule "redteam_toolkit"]
+	path = redteam_toolkit
+	url = https://github.com/anthonysecurity/redteam_toolkit
