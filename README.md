@@ -1,5 +1,9 @@
 # Red-Team-soft
 
+<b>redteam_toolkit</b><br>
+https://github.com/anthonysecurity/redteam_toolkit<br>
+Ниибаца годная сборка тулз для Red Team<br>
+<br>
 <b>Invoke-Obfuscation</b><br>
 https://github.com/danielbohannon/Invoke-Obfuscation<br>
 Набор скриптов для обфускакции кода<br>
