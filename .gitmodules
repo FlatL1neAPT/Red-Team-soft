@@ -34,3 +34,6 @@
 [submodule "redteam_toolkit"]
 	path = redteam_toolkit
 	url = https://github.com/anthonysecurity/redteam_toolkit
+[submodule "SharpShooter"]
+	path = SharpShooter
+	url = https://github.com/mdsecactivebreach/SharpShooter
