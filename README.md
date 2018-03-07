@@ -1,5 +1,9 @@
 # Red-Team-soft
 
+<b>SharpShooter</b><br>
+https://github.com/mdsecactivebreach/SharpShooter<br>
+Фреймворк для создания нагрузок форматов: HTA JS JSE VBA VBE VBS WSF<br>
+<br>
 <b>redteam_toolkit</b><br>
 https://github.com/anthonysecurity/redteam_toolkit<br>
 Ниибаца годная сборка тулз для Red Team<br>
