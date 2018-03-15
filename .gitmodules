@@ -37,3 +37,6 @@
 [submodule "SharpShooter"]
 	path = SharpShooter
 	url = https://github.com/mdsecactivebreach/SharpShooter
+[submodule "RedTips"]
+	path = RedTips
+	url = https://github.com/vysec/RedTips
