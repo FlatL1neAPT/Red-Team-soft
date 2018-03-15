@@ -1,5 +1,9 @@
 # Red-Team-soft
 
+<b>Red Team Tips</b><br>
+https://github.com/vysec/RedTips<br>
+Тонна дельных советов мамкиным хакерам ;)<br>
+<br>
 <b>SharpShooter</b><br>
 https://github.com/mdsecactivebreach/SharpShooter<br>
 Фреймворк для создания нагрузок форматов: HTA JS JSE VBA VBE VBS WSF<br>
